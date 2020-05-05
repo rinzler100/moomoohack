@@ -16,6 +16,7 @@
 // @namespace -
 // ==/UserScript==
 
+
 //Start edit
 var fh = false
 $("#gameCanvas").css('cursor', 'url(http://cur.cursors-4u.net/user/use-1/use153.cur), default');
